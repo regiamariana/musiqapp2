@@ -1,0 +1,8 @@
+azure-storage-blob
+flask
+flask-cors
+python-dotenv
+reportlab
+requests
+google
+Pillow
